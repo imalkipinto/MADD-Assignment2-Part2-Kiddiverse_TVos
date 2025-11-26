@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		277FA4052ED6E20E003BB2EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 277FA3ED2ED6E20B003BB2EF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 277FA3F42ED6E20B003BB2EF;
+			remoteInfo = kidiverse;
+		};
+		277FA40F2ED6E20E003BB2EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 277FA3ED2ED6E20B003BB2EF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 277FA3F42ED6E20B003BB2EF;
+			remoteInfo = kidiverse;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		277FA3F52ED6E20B003BB2EF /* kidiverse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kidiverse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		277FA4042ED6E20E003BB2EF /* kidiverseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kidiverseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		277FA40E2ED6E20E003BB2EF /* kidiverseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kidiverseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		277FA3F72ED6E20B003BB2EF /* kidiverse */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = kidiverse;
+			sourceTree = "<group>";
+		};
+		277FA4072ED6E20E003BB2EF /* kidiverseTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = kidiverseTests;
+			sourceTree = "<group>";
+		};
+		277FA4112ED6E20E003BB2EF /* kidiverseUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = kidiverseUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		277FA3F22ED6E20B003BB2EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA4012ED6E20E003BB2EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA40B2ED6E20E003BB2EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		277FA3EC2ED6E20B003BB2EF = {
+			isa = PBXGroup;
+			children = (
+				277FA3F72ED6E20B003BB2EF /* kidiverse */,
+				277FA4072ED6E20E003BB2EF /* kidiverseTests */,
+				277FA4112ED6E20E003BB2EF /* kidiverseUITests */,
+				277FA3F62ED6E20B003BB2EF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		277FA3F62ED6E20B003BB2EF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				277FA3F52ED6E20B003BB2EF /* kidiverse.app */,
+				277FA4042ED6E20E003BB2EF /* kidiverseTests.xctest */,
+				277FA40E2ED6E20E003BB2EF /* kidiverseUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		277FA3F42ED6E20B003BB2EF /* kidiverse */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 277FA4182ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverse" */;
+			buildPhases = (
+				277FA3F12ED6E20B003BB2EF /* Sources */,
+				277FA3F22ED6E20B003BB2EF /* Frameworks */,
+				277FA3F32ED6E20B003BB2EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				277FA3F72ED6E20B003BB2EF /* kidiverse */,
+			);
+			name = kidiverse;
+			packageProductDependencies = (
+			);
+			productName = kidiverse;
+			productReference = 277FA3F52ED6E20B003BB2EF /* kidiverse.app */;
+			productType = "com.apple.product-type.application";
+		};
+		277FA4032ED6E20E003BB2EF /* kidiverseTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 277FA41B2ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverseTests" */;
+			buildPhases = (
+				277FA4002ED6E20E003BB2EF /* Sources */,
+				277FA4012ED6E20E003BB2EF /* Frameworks */,
+				277FA4022ED6E20E003BB2EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				277FA4062ED6E20E003BB2EF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				277FA4072ED6E20E003BB2EF /* kidiverseTests */,
+			);
+			name = kidiverseTests;
+			packageProductDependencies = (
+			);
+			productName = kidiverseTests;
+			productReference = 277FA4042ED6E20E003BB2EF /* kidiverseTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		277FA40D2ED6E20E003BB2EF /* kidiverseUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 277FA41E2ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverseUITests" */;
+			buildPhases = (
+				277FA40A2ED6E20E003BB2EF /* Sources */,
+				277FA40B2ED6E20E003BB2EF /* Frameworks */,
+				277FA40C2ED6E20E003BB2EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				277FA4102ED6E20E003BB2EF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				277FA4112ED6E20E003BB2EF /* kidiverseUITests */,
+			);
+			name = kidiverseUITests;
+			packageProductDependencies = (
+			);
+			productName = kidiverseUITests;
+			productReference = 277FA40E2ED6E20E003BB2EF /* kidiverseUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		277FA3ED2ED6E20B003BB2EF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					277FA3F42ED6E20B003BB2EF = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					277FA4032ED6E20E003BB2EF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 277FA3F42ED6E20B003BB2EF;
+					};
+					277FA40D2ED6E20E003BB2EF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 277FA3F42ED6E20B003BB2EF;
+					};
+				};
+			};
+			buildConfigurationList = 277FA3F02ED6E20B003BB2EF /* Build configuration list for PBXProject "kidiverse" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 277FA3EC2ED6E20B003BB2EF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 277FA3F62ED6E20B003BB2EF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				277FA3F42ED6E20B003BB2EF /* kidiverse */,
+				277FA4032ED6E20E003BB2EF /* kidiverseTests */,
+				277FA40D2ED6E20E003BB2EF /* kidiverseUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		277FA3F32ED6E20B003BB2EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA4022ED6E20E003BB2EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA40C2ED6E20E003BB2EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		277FA3F12ED6E20B003BB2EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA4002ED6E20E003BB2EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		277FA40A2ED6E20E003BB2EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		277FA4062ED6E20E003BB2EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 277FA3F42ED6E20B003BB2EF /* kidiverse */;
+			targetProxy = 277FA4052ED6E20E003BB2EF /* PBXContainerItemProxy */;
+		};
+		277FA4102ED6E20E003BB2EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 277FA3F42ED6E20B003BB2EF /* kidiverse */;
+			targetProxy = 277FA40F2ED6E20E003BB2EF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		277FA4162ED6E20E003BB2EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TVOS_DEPLOYMENT_TARGET = 18.5;
+			};
+			name = Debug;
+		};
+		277FA4172ED6E20E003BB2EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = appletvos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				TVOS_DEPLOYMENT_TARGET = 18.5;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		277FA4192ED6E20E003BB2EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverse;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+			};
+			name = Debug;
+		};
+		277FA41A2ED6E20E003BB2EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverse;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+			};
+			name = Release;
+		};
+		277FA41C2ED6E20E003BB2EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverseTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kidiverse.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/kidiverse";
+				TVOS_DEPLOYMENT_TARGET = 18.5;
+			};
+			name = Debug;
+		};
+		277FA41D2ED6E20E003BB2EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverseTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kidiverse.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/kidiverse";
+				TVOS_DEPLOYMENT_TARGET = 18.5;
+			};
+			name = Release;
+		};
+		277FA41F2ED6E20E003BB2EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverseUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_TARGET_NAME = kidiverse;
+			};
+			name = Debug;
+		};
+		277FA4202ED6E20E003BB2EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBVJSJG3W9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imalki.kidiverseUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_TARGET_NAME = kidiverse;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		277FA3F02ED6E20B003BB2EF /* Build configuration list for PBXProject "kidiverse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277FA4162ED6E20E003BB2EF /* Debug */,
+				277FA4172ED6E20E003BB2EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		277FA4182ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277FA4192ED6E20E003BB2EF /* Debug */,
+				277FA41A2ED6E20E003BB2EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		277FA41B2ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverseTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277FA41C2ED6E20E003BB2EF /* Debug */,
+				277FA41D2ED6E20E003BB2EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		277FA41E2ED6E20E003BB2EF /* Build configuration list for PBXNativeTarget "kidiverseUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277FA41F2ED6E20E003BB2EF /* Debug */,
+				277FA4202ED6E20E003BB2EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 277FA3ED2ED6E20B003BB2EF /* Project object */;
+}
