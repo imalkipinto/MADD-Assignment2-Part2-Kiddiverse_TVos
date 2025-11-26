@@ -157,35 +157,35 @@
 ---
 
 ### Learn Animals
-<img src="./assets/screenshots/learn_animals.png" width="800" alt="Learn Animals"/>
+<img src="./images/x.png" width="800" alt="Learn Animals"/>
 
 *Interactive animal grid with sounds*
 
 ---
 
 ### Spelling Game
-<img src="./assets/screenshots/spelling_game.png" width="800" alt="Spelling Game"/>
+<img src="../images/y.png" width="800" alt="Spelling Game"/>
 
 *Word puzzles with letter selection*
 
 ---
 
 ### Math Adventure
-<img src="./assets/screenshots/math_game.png" width="800" alt="Math Game"/>
+<img src="./images/z.png" width="800" alt="Math Game"/>
 
 *Interactive math problems with scoring*
 
 ---
 
 ### Bedtime Stories
-<img src="./assets/screenshots/bedtime_stories.png" width="800" alt="Bedtime Stories"/>
+<img src="./images/l.png" width="800" alt="Bedtime Stories"/>
 
 *Story reader with audio narration*
 
 ---
 
 ### Good vs Bad
-<img src="./assets/screenshots/good_vs_bad.png" width="800" alt="Good vs Bad"/>
+<img src="./images/m.png" width="800" alt="Good vs Bad"/>
 
 *Moral learning through examples*
 
