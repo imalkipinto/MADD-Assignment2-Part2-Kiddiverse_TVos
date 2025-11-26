@@ -42,7 +42,7 @@
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_animals.png" width="80" alt="Animals"/>
+  <img src="./images/b.png" width="80" alt="Animals"/>
   <h4>🦁 Learn Animals</h4>
   <p>Interactive animal grid with sounds and animations</p>
 </td>
