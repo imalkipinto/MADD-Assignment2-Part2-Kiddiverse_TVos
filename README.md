@@ -665,7 +665,7 @@ Special thanks to:
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/kiddiverse&type=Date)](https://star-history.com/#yourusername/kiddiverse&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=imalkipinto/kiddiverse&type=Date)](https://star-history.com/#yourusername/kiddiverse&Date)
 
 ---
 
