@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Kiddiverse Banner](./assets/readme/banner.png)
+![Kiddiverse Banner](./images/a.png)
 
 **A delightful tvOS learning app that makes education fun and interactive for children!**
 
