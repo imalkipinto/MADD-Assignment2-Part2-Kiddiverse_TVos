@@ -47,7 +47,7 @@
   <p>Interactive animal grid with sounds and animations</p>
 </td>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_spelling.png" width="80" alt="Spelling"/>
+  <img src="./images/b.png" width="80" alt="Spelling"/>
   <h4>🔤 Spelling Fun</h4>
   <p>Word puzzles with letter tiles and hints</p>
 </td>
@@ -59,17 +59,17 @@
 </tr>
 <tr>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_stories.png" width="80" alt="Stories"/>
+  <img src="./images/b.png" width="80" alt="Stories"/>
   <h4>📖 Bedtime Stories</h4>
   <p>Narrated stories with audio and illustrations</p>
 </td>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_goodbad.png" width="80" alt="Good vs Bad"/>
+  <img src="./images/b.png" width="80" alt="Good vs Bad"/>
   <h4>⭐ Good vs Bad</h4>
   <p>Teach moral values through examples</p>
 </td>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_dashboard.png" width="80" alt="Dashboard"/>
+  <img src="./images/b.png" width="80" alt="Dashboard"/>
   <h4>🏠 Dashboard Hub</h4>
   <p>Easy navigation carousel interface</p>
 </td>
@@ -96,9 +96,9 @@
 
 ### Languages & Frameworks
 
-<img src="./assets/readme/tech_swift.png" width="80" alt="Swift"/>
-<img src="./assets/readme/tech_swiftui.png" width="80" alt="SwiftUI"/>
-<img src="./assets/readme/tech_tvos.png" width="80" alt="tvOS"/>
+<img src="[./assets/readme/tech_swift.png](https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png)" width="80" alt="Swift"/>
+<img src=".[/assets/readme/tech_swiftui.png](https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png)" width="80" alt="SwiftUI"/>
+<img src="[./assets/readme/tech_tvos.png](https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png)" width="80" alt="tvOS"/>
 
 | Technology | Description |
 |------------|-------------|
@@ -143,14 +143,14 @@
 <div align="center">
 
 ### Splash Screen
-<img src="./assets/screenshots/splash_screen.png" width="800" alt="Splash Screen"/>
+<img src="./images/a.png" width="800" alt="Splash Screen"/>
 
 *Animated gradient background with floating character*
 
 ---
 
 ### Dashboard
-<img src="./assets/screenshots/dashboard.png" width="800" alt="Dashboard"/>
+<img src="./images/b.png" width="800" alt="Dashboard"/>
 
 *Glassmorphic cards with focus animations*
 
