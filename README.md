@@ -52,7 +52,7 @@
   <p>Word puzzles with letter tiles and hints</p>
 </td>
 <td width="33%" align="center">
-  <img src="./assets/readme/icon_math.png" width="80" alt="Math"/>
+  <img src="/images/b.png" width="80" alt="Math"/>
   <h4>➕ Math Game</h4>
   <p>Addition & subtraction with score tracking</p>
 </td>
